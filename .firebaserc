@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "pwa-example-d5bf6",
+    "default": "pwa-example-d5bf6",
+    "prod": "pwa-example-d5bf6"
+  }
+}
